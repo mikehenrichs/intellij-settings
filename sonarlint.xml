@@ -1,0 +1,13 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.semmtech.com" />
+          <token>df9ddfcedfc9df9ddf9fdfccdf9cdf9cdfccdf9ddf9fdf9edfcfdf9ddf9edfcfdf9edf98df9edfccdf98df9fdf99dfcfdf9adf9adfc8df99df9edf9edf93df98df9bdfcbdfc9df9edfcbdfcbdf9edfce</token>
+          <option name="name" value="SonarQube Semmtech" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

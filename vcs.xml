@@ -1,0 +1,140 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://mikehenrichs@stash.semmtech.com/scm/test/vcon-server-dropwizard.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://mikehenrichs@stash.semmtech.com/scm/test/vcon-server-spring-boot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://mikehenrichs@stash.semmtech.com/scm/develop/allegrograph-downloader.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://mikehenrichs@stash.semmtech.com/scm/develop/agraph-java-client.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/franzinc/agraph-java-client" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://mikehenrichs@stash.semmtech.com/scm/develop/lmf-coinsapi-module.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Pablissimo/SonarTsPlugin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@stash.semmtech.com:7999/develop/relatics-otlviewer-addon.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://mikehenrichs@stash.semmtech.com/scm/rel/automated-import-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://mikehenrichs@stash.semmtech.com/scm/rel/semmtech-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/vfarcic/tdd-java-ch02-example-junit.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/vfarcic/tdd-java-ch04-ship.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AmadeusITGroup/sonar-stash.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/public/checkstyle.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/public/sparql-cabinet-application.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/develop/sparql-cabinet-rest-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/develop/vcon-ifcstepowl.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/develop/cerium-decompositions-pla.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/develop/cerium-requirements-pla.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/develop/semmweb-addons.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/public/maven-notice-plugin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/test/mongodb-client-test.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/develop/semmtech-coins.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/develop/prorail-imx-otl.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/public/sparql-repository-application.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/semmtech/semmtech.github.io.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/develop/relatics-coins-exporter-addon.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/develop/laces-webapp-bootstrap.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/test/json-to-rdf.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@bitbucket.semmtech.com:7999/develop/relatics-coins-addons.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/develop/relatics-coins-addons.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/develop/laces-web-application.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="C:\Users\Mike Henrichs\stash" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="C:/Temp" />
+  </component>
+</application>

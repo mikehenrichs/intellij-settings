@@ -1,0 +1,24 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="README.md" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="nt" type="PLAIN_TEXT" />
+      <mapping ext="gliffy" type="PLAIN_TEXT" />
+      <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="gef" type="PLAIN_TEXT" />
+      <mapping ext="rdf" type="PLAIN_TEXT" />
+      <mapping ext="ts" type="PLAIN_TEXT" />
+      <mapping ext="vm" type="PLAIN_TEXT" />
+      <mapping ext="ftl" type="PLAIN_TEXT" />
+      <mapping ext="rq" type="PLAIN_TEXT" />
+      <mapping ext="sparql" type="PLAIN_TEXT" />
+      <mapping ext="g4" type="PLAIN_TEXT" />
+      <mapping ext="ttl" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="xjb" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
