@@ -1,3 +1,12 @@
 <templateSet group="other">
-  <template name="psfl" value="private static final Logger logger = Logger.getLogger();" description="Create static final log4j Logger" toReformat="false" toShortenFQNames="true" />
+  <template name="psfl" value="private static final org.apache.log4j.Logger logger = org.apache.log4j.Logger.getLogger($qualifiedClassName$);" description="Create static final log4j Logger" toReformat="false" toShortenFQNames="true">
+    <variable name="qualifiedClassName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
 </templateSet>
