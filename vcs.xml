@@ -162,6 +162,14 @@
           <option name="url" value="http://mikehenrichs@bitbucket.semmtech.com/scm/develop/laces-coins2-addons.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/develop/laces-model-based-applications.githttps://mikehenrichs@bitbucket.semmtech.com/scm/develop/laces-model-based-applications.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/develop/laces-model-based-applications.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Mike Henrichs\stash" />
