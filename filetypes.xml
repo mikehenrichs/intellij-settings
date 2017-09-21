@@ -5,6 +5,7 @@
       <mapping pattern="dummt" type="PLAIN_TEXT" />
       <mapping pattern="README.md" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="feature" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
