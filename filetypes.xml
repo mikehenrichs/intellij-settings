@@ -21,6 +21,7 @@
       <mapping ext="sparql" type="PLAIN_TEXT" />
       <mapping ext="g4" type="PLAIN_TEXT" />
       <mapping ext="ttl" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="xjb" type="PLAIN_TEXT" />
     </extensionMap>
