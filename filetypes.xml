@@ -2,9 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="jsonld" type="JSON" />
-      <mapping pattern="NOTICE" type="PLAIN_TEXT" />
-      <mapping pattern="dummt" type="PLAIN_TEXT" />
       <mapping pattern="README.md" type="PLAIN_TEXT" />
+      <mapping pattern="dummt" type="PLAIN_TEXT" />
+      <mapping pattern="publicKey" type="PLAIN_TEXT" />
+      <mapping pattern="privateKey" type="PLAIN_TEXT" />
+      <mapping pattern="NOTICE" type="PLAIN_TEXT" />
       <mapping pattern="services" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="META-INF/services" type="PLAIN_TEXT" />
