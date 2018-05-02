@@ -246,6 +246,10 @@
           <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/develop/semmtech-relatics.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/xslt/ep0109-visi-xml-transformations.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Mike Henrichs\bitbucket" />
