@@ -33,6 +33,7 @@
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="xjb" type="PLAIN_TEXT" />
+      <mapping pattern="simple-example" type="XML" />
     </extensionMap>
   </component>
 </application>
