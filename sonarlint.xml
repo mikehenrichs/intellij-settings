@@ -4,7 +4,7 @@
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="https://sonar.semmtech.com" />
-          <token>df9ddfcedfc9df9ddf9fdfccdf9cdf9cdfccdf9ddf9fdf9edfcfdf9ddf9edfcfdf9edf98df9edfccdf98df9fdf99dfcfdf9adf9adfc8df99df9edf9edf93df98df9bdfcbdfc9df9edfcbdfcbdf9edfce</token>
+          <token>dfc9dfcedf92dfcfdfcfdf9edf98dfcedf9fdfcedf99df9bdf9cdfcfdf98df9edf9adf92df9adf9ddf99df93df99dfc9df9cdf9bdf9bdfc8dfcfdfcfdf9cdfc9dfcfdfcbdf99dfc9df93df99df92dfc8</token>
           <option name="name" value="SonarQube Semmtech" />
         </SonarQubeServer>
       </list>
