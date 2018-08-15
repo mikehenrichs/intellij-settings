@@ -25,6 +25,7 @@
       <mapping ext="rdf" type="PLAIN_TEXT" />
       <mapping ext="ts" type="PLAIN_TEXT" />
       <mapping ext="vm" type="PLAIN_TEXT" />
+      <mapping ext="http" type="PLAIN_TEXT" />
       <mapping ext="ftl" type="PLAIN_TEXT" />
       <mapping ext="rq" type="PLAIN_TEXT" />
       <mapping ext="sparql" type="PLAIN_TEXT" />
