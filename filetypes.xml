@@ -29,7 +29,6 @@
       <mapping ext="http" type="PLAIN_TEXT" />
       <mapping ext="ftl" type="PLAIN_TEXT" />
       <mapping ext="rq" type="PLAIN_TEXT" />
-      <mapping ext="sparql" type="PLAIN_TEXT" />
       <mapping ext="g4" type="PLAIN_TEXT" />
       <mapping ext="ttl" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
