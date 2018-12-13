@@ -282,6 +282,10 @@
           <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/develop/laces-platform-v2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/develop/semmtech-calendar.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Mike Henrichs\bitbucket" />
