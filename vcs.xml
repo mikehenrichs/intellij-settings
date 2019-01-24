@@ -286,9 +286,17 @@
           <option name="url" value="https://mikehenrichs@bitbucket.semmtech.com/scm/develop/semmtech-calendar.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mikehenrichs/2019-01-spring-template.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mikehenrichs/spring-demo-application.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Mike Henrichs\bitbucket" />
+    <option name="cloneParentDir" value="C:\Users\Mike Henrichs\gitlab" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:/Temp" />
