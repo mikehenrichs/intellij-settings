@@ -298,9 +298,13 @@
           <option name="url" value="https://github.com/Nilhcem/FakeSMTP.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/neanex/laces-fetch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Mike Henrichs\github" />
+    <option name="cloneParentDir" value="C:\Users\Mike Henrichs\gitlab-neanex" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:/Temp" />
